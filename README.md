@@ -13,6 +13,20 @@ channel, not by how big the channel is.
 
 **Nothing gets published until you do it.** These skills write. You upload.
 
+## At a glance
+
+```mermaid
+flowchart LR
+    N0["Research and plan"]
+    N1["Write the script"]
+    N2["Package title and thumbnail"]
+    N3["Edit and prepare metadata"]
+    N4["You publish"]
+    N5["Review retention"]
+    N0 --> N1 --> N2 --> N3 --> N4 --> N5
+```
+
+
 ## Install
 
 Paste this into Claude:
